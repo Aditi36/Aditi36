@@ -18,5 +18,6 @@ Day 1: Read about the documentations over agile methodology and minesweeper.
    
    
   Day 2 : Gone through basic concepts of DSA .
+   Day 3 : Gone through basic concepts of DSA .
   
     
