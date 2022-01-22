@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @Aditi36
+- 👋 Hi, I’m Aditi Kumari
