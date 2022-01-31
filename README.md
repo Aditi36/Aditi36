@@ -21,8 +21,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditi36&show_icons=true&locale=en&layout=compact" alt="aditi36" /></p>
 <br>
-
+<hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi36&show_icons=true&locale=en" alt="aditi36" /></p>
-
+<br>
+<hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi36&" alt="aditi36" /></p>
+<hr>
 
