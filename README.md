@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aditi Kumari</h1>
+<hr>
 <h3 align="center">I am an ECE student at NIT Agartala with good knowledge of programming fundamentals .</h3>
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi36&label=Profile%20views&color=0e75b6&style=flat" alt="aditi36" /> </p>
 
 - 📫 How to reach me **aditinita@gmail.com**
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditi36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditi36" height="30" width="40" /></a>
