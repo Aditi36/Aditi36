@@ -20,8 +20,7 @@
 <hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditi36&show_icons=true&locale=en&layout=compact" alt="aditi36" /></p>
-<br>
-<hr>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi36&show_icons=true&locale=en" alt="aditi36" /></p>
 <br>
 <hr>
