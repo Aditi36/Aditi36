@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditi Kumari</h1>
 
 <h2 align="center">I am an ECE student at NIT Agartala with good knowledge of programming fundamentals .</h2>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi36&label=Profile%20views&color=0e75b6&style=flat" alt="aditi36" /> </p>
-
+<!-- <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi36&label=Profile%20views&color=0e75b6&style=flat" alt="aditi36" /> </p> -->
 - 📫 How to reach me **aditinita@gmail.com**
 <br>
 
